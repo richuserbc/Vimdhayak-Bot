@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/KV81xXM/Vimdhayak-bot.jpg" alt="Xeon" width="170" />
+<img src="https://i.ibb.co/KV81xXM/Vimdhayak-bot.jpg" alt="Richu ser" width="170" />
 
-## Vimdhayak Bot
+## Richu ser Bot
 
 </div>
 
